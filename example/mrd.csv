@@ -1,0 +1,33 @@
+REQ,Project,Proj1-Effort,Proj2-Effort,Deadline Q,Deadline Y,Priority
+Basic Dev. Infrastructure,Proj2,0,26.7,,2024,1
+CI/CD Infrastructure,Proj2,0,46.7,,2024,1
+Project Framework,Proj2,0,31.7,,2024,1
+Release Strategy,Proj2,0,20,,2024,1
+Test Infrastructure,Proj2,0,33.3,,2024,1
+Evaluation Kit,Proj2,0,23.3,,2024,1
+Examples,Proj2,0,40,,2024,1
+Webpage,Proj2,0,11.7,,2024,1
+Training Materials,Proj2,0,53.3,,2024,1
+MCU BSP,,123.3,40,,2025,2
+IoT Client Stack,,46.7,11.7,,,2
+RPC Server Functionality,Proj2,0,63.3,,,2
+Verified/Secure Boot,,70,13.3,,,3
+FW Encryption,,83.3,16.7,,,3
+FW Protection,,26.7,16.7,,,3
+Graphics,,40,10,,,3
+PKI/Certificate Management,,26.7,6.7,,,3
+Security Certification,,93.3,28.3,,,5
+Symmetrical Multicore Support,,126.7,15,,,5
+Video Replay,,26.7,10,,,5
+Voice Control,,60,15,,,5
+Asymmetrical Multicore Support,,33.3,15,,,5
+Audio Replay,,13.3,10,,,5
+Database,,40,6.7,,,5
+RPC Client Functionality,,33.3,30,,,5
+PDF Generation,,20,20,,,5
+Power Save Mode,,40,28.3,,,5
+SBOM,,23.3,5,,,5
+TPM Support,,26.7,5,,,5
+TrustedFirmware-M,,33.3,5,,,5
+Websocket Client,,30,5,,,5
+MCU2 BSP,,200,50,,,5
